@@ -1,0 +1,19 @@
+{
+  "name": "savesnake",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "archive": "node archive.mjs",
+    "archive:headed": "node archive.mjs --headed",
+    "classify": "node classify-stories.mjs",
+    "catalog": "node catalog-server.mjs --dev",
+    "catalog:build": "npm run build --prefix catalog-ui",
+    "catalog:prod": "npm run catalog:build && node catalog-server.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "playwright": "^1.52.0"
+  }
+}

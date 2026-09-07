@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/dnd.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/confirmdialog.tsx","./src/components/seriessidebar.tsx","./src/components/storycard.tsx","./src/components/storypanel.tsx"],"version":"5.9.3"}

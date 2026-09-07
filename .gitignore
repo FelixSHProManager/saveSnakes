@@ -1,0 +1,9 @@
+node_modules/
+archive/
+links.md
+failed.json
+playwright-report/
+test-results/
+.catalog-backups/
+catalog-ui/node_modules/
+catalog-ui/dist/

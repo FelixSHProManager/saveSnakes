@@ -1,0 +1,3098 @@
+[
+  {
+    "title": "爱心号旅行记",
+    "summary": "小蛇阿绿帮助小鹰阿翔在爱心号上学会关心他人。",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/爱心号旅行记/爱心号旅行记故事文本.md"
+  },
+  {
+    "title": "班费失踪案",
+    "summary": "魔法喵们追查失踪班费，发现是孔雀老师的惊喜。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/班费失踪案/班费失踪案故事文本.md"
+  },
+  {
+    "title": "班长抓喵记",
+    "summary": "小蛇班长停电时智斗调皮魔法喵",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/班长抓喵记/班长抓喵记故事文本.md"
+  },
+  {
+    "title": "包饺子大赛",
+    "summary": "小蛇思思和咪咪用手速赢得包饺子比赛",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/包饺子大赛/包饺子大赛故事文本.md"
+  },
+  {
+    "title": "辩论小舌王",
+    "summary": "小蛇思思凭智慧赢得辩论大赛冠军",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/辩论小舌王/辩论小舌王故事文本.md"
+  },
+  {
+    "title": "冰川王大作战",
+    "summary": "思思和伙伴们合力夺回被冰川王偷走的超能力",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰川王大作战/冰川王大作战故事文本.md"
+  },
+  {
+    "title": "冰川王的秘密",
+    "summary": "小动物们战胜冰川王，获得超能力准备新冒险",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰川王的秘密/冰川王的秘密故事文本.md"
+  },
+  {
+    "title": "冰雕火锅的秘密",
+    "summary": "小蛇思思一家用创意冰雕火锅赢得比赛",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰雕火锅的秘密/冰雕火锅的秘密故事文本.md"
+  },
+  {
+    "title": "冰河魔法喵",
+    "summary": "魔法喵小队穿越时空，拯救同伴破解阴谋",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰河魔法喵/冰河魔法喵故事文本.md"
+  },
+  {
+    "title": "冰河时期大冒险",
+    "summary": "侦探小队在冰河时期合力破冰脱险的故事",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰河时期大冒险/冰河时期大冒险故事文本.md"
+  },
+  {
+    "title": "冰箱大冒险",
+    "summary": "小蛇兄妹变小后被困冰箱，合作逃出生天",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冰箱大冒险/冰箱大冒险故事文本.md"
+  },
+  {
+    "title": "彩虹公园的魔法",
+    "summary": "小蛇思思和魔法喵们打扫公园，用智慧合作赢得卫生之星",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/彩虹公园的魔法/彩虹公园的魔法故事文本.md"
+  },
+  {
+    "title": "彩虹足球赛",
+    "summary": "小猪队靠智慧和友谊逆转战胜明星球队",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/彩虹足球赛/彩虹足球赛故事文本.md"
+  },
+  {
+    "title": "彩色心情空间",
+    "summary": "思思在情绪空间学会接纳自己，获得成长。",
+    "parent": "冒险系列",
+    "sub": "心理号",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/彩色心情空间/彩色心情空间故事文本.md"
+  },
+  {
+    "title": "蟾蜍的灯笼",
+    "summary": "小蛇和猫咪帮助金蟾蜍朋友找回发光灯笼的故事",
+    "parent": "冒险系列",
+    "sub": "山海经",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/蟾蜍的灯笼/蟾蜍的灯笼故事文本.md"
+  },
+  {
+    "title": "超能魔法课",
+    "summary": "思思和咪咪通过魔法课学习与合作，最终战胜困难",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能魔法课/超能魔法课故事文本.md"
+  },
+  {
+    "title": "超能瓶大作战",
+    "summary": "思思和伙伴们夺回超能瓶打败毒粉怪",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能瓶大作战/超能瓶大作战故事文本.md"
+  },
+  {
+    "title": "超能守护队",
+    "summary": "魔法动物们合力制服复活恐龙并获得魔法印记",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能守护队/超能守护队故事文本.md"
+  },
+  {
+    "title": "超能小队战毒王",
+    "summary": "魔法小队觉醒超能力对抗毒粉怪，准备迎战毒粉王",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能小队战毒王/超能小队战毒王故事文本.md"
+  },
+  {
+    "title": "超能学校奇遇记",
+    "summary": "小蛇思思和魔法喵咪咪在超能学校的奇妙一天",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能学校奇遇记/超能学校奇遇记故事文本.md"
+  },
+  {
+    "title": "超能侦探队",
+    "summary": "小蛇思思带领侦探队对抗变异生物救博士",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能侦探队/超能侦探队故事文本.md"
+  },
+  {
+    "title": "超能侦探队_1",
+    "summary": "小蛇思思带领侦探队智斗反派，展现团结力量",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能侦探队_1/超能侦探队_1故事文本.md"
+  },
+  {
+    "title": "超能侦探队_2",
+    "summary": "魔法喵们智斗污染龙珠的火苗博士，拯救神兽。",
+    "parent": "冒险系列",
+    "sub": "七彩龙珠大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能侦探队_2/超能侦探队_2故事文本.md"
+  },
+  {
+    "title": "超能侦探队与鲛泪",
+    "summary": "小蛇思思带领侦探队突破魔法沙滩获得鲛泪",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能侦探队与鲛泪/超能侦探队与鲛泪故事文本.md"
+  },
+  {
+    "title": "超能侦探小队",
+    "summary": "默契小队击败毒粉王，获超能侦探称号",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能侦探小队/超能侦探小队故事文本.md"
+  },
+  {
+    "title": "超能足球杯",
+    "summary": "魔法喵队与外星人展开趣味足球赛，合作获胜",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能足球杯/超能足球杯故事文本.md"
+  },
+  {
+    "title": "超能足球赛",
+    "summary": "魔法喵队与魔法师队对决，思思带领球队获胜",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/超能足球赛/超能足球赛故事文本.md"
+  },
+  {
+    "title": "沉船小侦探",
+    "summary": "魔法喵小队在沉船主控室发现神秘钥匙碎片",
+    "parent": "冒险系列",
+    "sub": "七彩龙珠大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/沉船小侦探/沉船小侦探故事文本.md"
+  },
+  {
+    "title": "吃货号奇幻旅程",
+    "summary": "小蛇和小鹰在吃货号上学会分享与节制",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/吃货号奇幻旅程/吃货号奇幻旅程故事文本.md"
+  },
+  {
+    "title": "赤壁排练奇遇",
+    "summary": "动物们排练赤壁之战时的有趣经历",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/赤壁排练奇遇/赤壁排练奇遇故事文本.md"
+  },
+  {
+    "title": "厨艺课的冠军",
+    "summary": "亲子厨艺课上，小蛇思思一家凭借充满爱的蛋炒饭赢得冠军",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/厨艺课的冠军/厨艺课的冠军故事文本.md"
+  },
+  {
+    "title": "穿越时空寻宝记",
+    "summary": "小陶陶和伙伴穿越六个朝代，合作找回神圣碎片",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/穿越时空寻宝记/穿越时空寻宝记故事文本.md"
+  },
+  {
+    "title": "词之秘境探险",
+    "summary": "小陶陶和伙伴们解开古代词之迷的冒险",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/词之秘境探险/词之秘境探险故事文本.md"
+  },
+  {
+    "title": "丛林探险队",
+    "summary": "探险小队在丛林依靠智慧与科技化险为夷",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/丛林探险队/丛林探险队故事文本.md"
+  },
+  {
+    "title": "大胆王挑战赛",
+    "summary": "小蛇思思用智慧战胜魔法喵的挑战，赢得尊重。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/大胆王挑战赛/大胆王挑战赛故事文本.md"
+  },
+  {
+    "title": "地心化石之谜",
+    "summary": "侦探小队地心冒险，化石复活助他们逃出生天",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/地心化石之谜/地心化石之谜故事文本.md"
+  },
+  {
+    "title": "点心大赛夺冰箱",
+    "summary": "小蛇思思一家凭创意赢得点心大赛和冰箱",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/点心大赛夺冰箱/点心大赛夺冰箱故事文本.md"
+  },
+  {
+    "title": "电玩城大冒险",
+    "summary": "小蛇思思帮助四只魔法喵通过电玩体育考试",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/电玩城大冒险/电玩城大冒险故事文本.md"
+  },
+  {
+    "title": "电玩城大挑战",
+    "summary": "小蛇思思带领两只魔法喵挑战电玩城纪录",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/电玩城大挑战/电玩城大挑战故事文本.md"
+  },
+  {
+    "title": "动画大冒险",
+    "summary": "魔法喵和小蛇穿越进动画世界的冒险故事。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/动画大冒险/动画大冒险故事文本.md"
+  },
+  {
+    "title": "洞穴里的魔法糖",
+    "summary": "小蛇思思和伙伴们意外掉进洞穴，用棒棒糖魔法脱险",
+    "parent": "冒险系列",
+    "sub": "恐龙岛大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/洞穴里的魔法糖/洞穴里的魔法糖故事文本.md"
+  },
+  {
+    "title": "饭卡大冒险",
+    "summary": "魔法喵小菊和思思帮乖乖找回被咪咪藏起来的饭卡",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/饭卡大冒险/饭卡大冒险故事文本.md"
+  },
+  {
+    "title": "飞天西瓜大赛",
+    "summary": "小蛇和魔法喵用杠杆原理将西瓜抬上天并劈开，赢得冠军",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/飞天西瓜大赛/飞天西瓜大赛故事文本.md"
+  },
+  {
+    "title": "飞艇救援队",
+    "summary": "小动物们合作救孔雀老师",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/飞艇救援队/飞艇救援队故事文本.md"
+  },
+  {
+    "title": "飞向悬空岛",
+    "summary": "14联盟伙伴们合作使用分身术飞往悬空岛的冒险故事",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/飞向悬空岛/飞向悬空岛故事文本.md"
+  },
+  {
+    "title": "分身撕名牌",
+    "summary": "小蛇思思用分身术战胜兔子跳跳的撕名牌挑战",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/分身撕名牌/分身撕名牌故事文本.md"
+  },
+  {
+    "title": "凤凰大挑战",
+    "summary": "小动物团队合作通过凤凰挑战，孔雀老师获能量",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/凤凰大挑战/凤凰大挑战故事文本.md"
+  },
+  {
+    "title": "凤凰的挑战",
+    "summary": "小蛇思思、小鹰丁丁和魔法喵小菊为救朱雀领地，接受凤凰的游戏挑战。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/凤凰的挑战/凤凰的挑战故事文本.md"
+  },
+  {
+    "title": "复制人追捕战",
+    "summary": "小蛇思思和魔法喵咪咪抓捕逃跑的复制人，保护魔法学校。",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/复制人追捕战/复制人追捕战故事文本.md"
+  },
+  {
+    "title": "干饭小英雄",
+    "summary": "小蛇思思用团队合作赢得干饭比赛",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/干饭小英雄/干饭小英雄故事文本.md"
+  },
+  {
+    "title": "古代奇妙贩卖机",
+    "summary": "小蛇思思带魔法喵穿越古代，用创意卖货完成任务",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/古代奇妙贩卖机/古代奇妙贩卖机故事文本.md"
+  },
+  {
+    "title": "古陶罐的秘密",
+    "summary": "小陶陶与伙伴们解开古陶罐之谜的冒险故事。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/古陶罐的秘密/古陶罐的秘密故事文本.md"
+  },
+  {
+    "title": "好习惯魔法罐",
+    "summary": "兔子跳跳用魔法罐帮助小松鼠球球养成好习惯。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/好习惯魔法罐/好习惯魔法罐故事文本.md"
+  },
+  {
+    "title": "红海中的密码",
+    "summary": "小蛇思思带领侦探小队潜入红海破解密码门之谜",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/红海中的密码/红海中的密码故事文本.md"
+  },
+  {
+    "title": "蝴蝶比赛的秘密",
+    "summary": "小蛇思思发现咪咪作弊，诚实赢得比赛。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/蝴蝶比赛的秘密/蝴蝶比赛的秘密故事文本.md"
+  },
+  {
+    "title": "幻境大冒险",
+    "summary": "小蛇思思与伙伴们战胜花妖幻境的冒险故事。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/幻境大冒险/幻境大冒险故事文本.md"
+  },
+  {
+    "title": "回家大挑战",
+    "summary": "小蛇思思和老师经历诱惑重重的回家路",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/回家大挑战/回家大挑战故事文本.md"
+  },
+  {
+    "title": "会口技的小蛇",
+    "summary": "小蛇思思通过口技卖艺赚钱买零食的故事",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/会口技的小蛇/会口技的小蛇故事文本.md"
+  },
+  {
+    "title": "活字森林探险",
+    "summary": "小伙伴们合作解开活字印刷术之谜的冒险故事。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/活字森林探险/活字森林探险故事文本.md"
+  },
+  {
+    "title": "火苗博士的秘密",
+    "summary": "小蛇思思发现反派背后的真正操控者是火苗博士。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火苗博士的秘密/火苗博士的秘密故事文本.md"
+  },
+  {
+    "title": "火苗历练大挑战",
+    "summary": "侦探小队森林历练，通过对战学习团队合作",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火苗历练大挑战/火苗历练大挑战故事文本.md"
+  },
+  {
+    "title": "火星奇遇记",
+    "summary": "小伙伴们在虚拟火星帮助小火灵，获得勇气继续探险。",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火星奇遇记/火星奇遇记故事文本.md"
+  },
+  {
+    "title": "火焰龙鸣大作战",
+    "summary": "小蛇思思带领伙伴合力击败火苗博士",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火焰龙鸣大作战/火焰龙鸣大作战故事文本.md"
+  },
+  {
+    "title": "火药术探险",
+    "summary": "小陶陶和伙伴们解开火药术之谜，学会安全使用知识",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火药术探险/火药术探险故事文本.md"
+  },
+  {
+    "title": "火之森的秘密",
+    "summary": "侦探小队智斗升级恐龙，发现森林秘密",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火之森的秘密/火之森的秘密故事文本.md"
+  },
+  {
+    "title": "火之森探险",
+    "summary": "侦探小队误闯火之森，在火苗怪帮助下脱险",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/火之森探险/火之森探险故事文本.md"
+  },
+  {
+    "title": "机器人小厨师",
+    "summary": "机器人阿机用算法教大家做野餐美食",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/机器人小厨师/机器人小厨师故事文本.md"
+  },
+  {
+    "title": "机械恐龙大战",
+    "summary": "侦探小队智斗机械恐龙并追踪黑衣人",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/机械恐龙大战/机械恐龙大战故事文本.md"
+  },
+  {
+    "title": "鸡腿侦探思思",
+    "summary": "小蛇思思智破鸡腿失踪案，教育兔子巧巧诚实。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/鸡腿侦探思思/鸡腿侦探思思故事文本.md"
+  },
+  {
+    "title": "键盘大作战",
+    "summary": "小蛇思思用魔法帮助咪咪教训网络霸凌者",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/键盘大作战/键盘大作战故事文本.md"
+  },
+  {
+    "title": "江南寻宝记",
+    "summary": "小伙伴分头探索江南，用宝物讲述东吴故事。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/江南寻宝记/江南寻宝记故事文本.md"
+  },
+  {
+    "title": "胶钻的奇妙能量",
+    "summary": "小蛇阿青和小鹰阿灰在海岛找到神奇胶钻，获得超能量。",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/胶钻的奇妙能量/胶钻的奇妙能量故事文本.md"
+  },
+  {
+    "title": "鲛泪岛寻宝",
+    "summary": "小动物团队齐心找到四枚鲛泪，召唤永恒之剑",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/鲛泪岛寻宝/鲛泪岛寻宝故事文本.md"
+  },
+  {
+    "title": "教室后的魔法卧室",
+    "summary": "小蛇思思提议将教室后方改造成午休卧室，提升了班级学习效率。",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/教室后的魔法卧室/教室后的魔法卧室故事文本.md"
+  },
+  {
+    "title": "洁癖检查官",
+    "summary": "魔法喵们打扫教室迎接洁癖检查官小菊的故事",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/洁癖检查官/洁癖检查官故事文本.md"
+  },
+  {
+    "title": "金戒指的秘密",
+    "summary": "魔法猫咪咪在蛇家学会聪明花钱，收获成长与友谊",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/金戒指的秘密/金戒指的秘密故事文本.md"
+  },
+  {
+    "title": "金牌领读员",
+    "summary": "小动物们比赛当领读员，各展所长最后选出合适人选。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/金牌领读员/金牌领读员故事文本.md"
+  },
+  {
+    "title": "金字塔寻宝记",
+    "summary": "小伙伴们在金字塔底合作找到宝箱和隐形钥匙",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/金字塔寻宝记/金字塔寻宝记故事文本.md"
+  },
+  {
+    "title": "九尾狐茶室",
+    "summary": "九尾狐和小马合作，让茶室成为最火小店。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/九尾狐茶室/九尾狐茶室故事文本.md"
+  },
+  {
+    "title": "橘子的舞台",
+    "summary": "小橘子用变形术帮大家排练，最终一起完成精彩表演",
+    "parent": "短镜头系列",
+    "sub": "2026特别篇",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/橘子的舞台/橘子的舞台故事文本.md"
+  },
+  {
+    "title": "看反的成绩单",
+    "summary": "小蛇思思误读成绩单引发的校园趣事",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/看反的成绩单/看反的成绩单故事文本.md"
+  },
+  {
+    "title": "孔雀老师的魔法课",
+    "summary": "猫头鹰老师的药水意外让孔雀老师\"黑化\"，学生们巧妙应对",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/孔雀老师的魔法课/孔雀老师的魔法课故事文本.md"
+  },
+  {
+    "title": "孔雀老师的水晶鞋",
+    "summary": "魔法森林学校的礼物交换课，孔雀老师收到特别礼物",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/孔雀老师的水晶鞋/孔雀老师的水晶鞋故事文本.md"
+  },
+  {
+    "title": "恐龙岛大冒险",
+    "summary": "小蛇思思带领侦探小队在恐龙岛战胜骨架恐龙，发现线索。",
+    "parent": "冒险系列",
+    "sub": "恐龙岛大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛大冒险/恐龙岛大冒险故事文本.md"
+  },
+  {
+    "title": "恐龙岛大冒险_1",
+    "summary": "思思带领伙伴战胜化石恐龙，对抗叶丽丝守护龙珠",
+    "parent": "冒险系列",
+    "sub": "七彩龙珠大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛大冒险_1/恐龙岛大冒险_1故事文本.md"
+  },
+  {
+    "title": "恐龙岛大冒险_2",
+    "summary": "侦探小队合作突破超能圈拯救火苗博士",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛大冒险_2/恐龙岛大冒险_2故事文本.md"
+  },
+  {
+    "title": "恐龙岛节约课",
+    "summary": "小动物教恐龙们学会勤俭节约的故事。",
+    "parent": "冒险系列",
+    "sub": "恐龙岛大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛节约课/恐龙岛节约课故事文本.md"
+  },
+  {
+    "title": "恐龙岛奇遇记",
+    "summary": "小蛇思思带家人在恐龙岛乐园冒险的欢乐一天",
+    "parent": "冒险系列",
+    "sub": "恐龙岛大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛奇遇记/恐龙岛奇遇记故事文本.md"
+  },
+  {
+    "title": "恐龙岛之谜",
+    "summary": "思思在火之森听火苗老大讲述恐龙岛的秘密与战神传说",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙岛之谜/恐龙岛之谜故事文本.md"
+  },
+  {
+    "title": "恐龙骨架大作战",
+    "summary": "侦探小队用新武器合作打败复活的恐龙骨架",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙骨架大作战/恐龙骨架大作战故事文本.md"
+  },
+  {
+    "title": "恐龙升级记",
+    "summary": "侦探小队智斗恐龙，却遇恐龙升级成机械白骨恐龙",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/恐龙升级记/恐龙升级记故事文本.md"
+  },
+  {
+    "title": "口算魔法大冒险",
+    "summary": "小蛇思思用想象魔法帮助班级赢得口算比赛",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/口算魔法大冒险/口算魔法大冒险故事文本.md"
+  },
+  {
+    "title": "矿洞宝石之谜",
+    "summary": "探险小队在矿洞发现真正宝石的故事",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/矿洞宝石之谜/矿洞宝石之谜故事文本.md"
+  },
+  {
+    "title": "葵花兵器大冒险",
+    "summary": "侦探小队获得魔法兵器，团结协作准备挑战恐龙",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/葵花兵器大冒险/葵花兵器大冒险故事文本.md"
+  },
+  {
+    "title": "垃圾清理小卫士",
+    "summary": "小蛇和魔法猫用妙计清理小区垃圾，保护环境。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/垃圾清理小卫士/垃圾清理小卫士故事文本.md"
+  },
+  {
+    "title": "辣条与学霸计划",
+    "summary": "小蛇思思用辣条教会魔法猫咪咪用智慧实现目标。",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/辣条与学霸计划/辣条与学霸计划故事文本.md"
+  },
+  {
+    "title": "粮仓里的秘密",
+    "summary": "小兔子偷粮食后知错就改，获得原谅与奖励",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/粮仓里的秘密/粮仓里的秘密故事文本.md"
+  },
+  {
+    "title": "零食变变变",
+    "summary": "小蛇思思和魔法喵用零食废物创作，获绵羊物业表扬。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食变变变/零食变变变故事文本.md"
+  },
+  {
+    "title": "零食大搜查",
+    "summary": "小蛇和魔法喵检查同学们伪装的零食，最后大家一起分享。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食大搜查/零食大搜查故事文本.md"
+  },
+  {
+    "title": "零食会的魔法",
+    "summary": "小蛇嘟嘟在魔法喵妙妙帮助下学会分享，和同学开心开零食会。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/零食会的魔法/零食会的魔法故事文本.md"
+  },
+  {
+    "title": "零食鸡腿雨",
+    "summary": "魔法森林里，小伙伴们分享会变魔术的鸡腿，学会分享最快乐。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食鸡腿雨/零食鸡腿雨故事文本.md"
+  },
+  {
+    "title": "零食搜查队",
+    "summary": "小蛇思思和魔法喵咪咪成功完成零食搜查任务，升级为小队长",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食搜查队/零食搜查队故事文本.md"
+  },
+  {
+    "title": "零食搜查队_1",
+    "summary": "小蛇思思和魔法喵咪咪执行零食搜查任务并升级",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食搜查队_1/零食搜查队_1故事文本.md"
+  },
+  {
+    "title": "零食搜查员",
+    "summary": "小蛇思思和魔法喵咪咪通过考核成为零食搜查员",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食搜查员/零食搜查员故事文本.md"
+  },
+  {
+    "title": "零食逃生舱",
+    "summary": "暴雨困住班级，小蛇和魔法喵用零食做逃生舱带大家脱险",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/零食逃生舱/零食逃生舱故事文本.md"
+  },
+  {
+    "title": "零食游乐园的甜蜜魔法",
+    "summary": "小蛇思思用智慧和分享化解了与咪咪的棒棒糖之争",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/零食游乐园的甜蜜魔法/零食游乐园的甜蜜魔法故事文本.md"
+  },
+  {
+    "title": "茅庐小剧场",
+    "summary": "小动物重演\"三顾茅庐\"，体会团结力量大",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/茅庐小剧场/茅庐小剧场故事文本.md"
+  },
+  {
+    "title": "冒险号启航",
+    "summary": "小蛇阿宅在小鹰阿翔帮助下，乘冒险号展开冒险，变得勇敢开朗。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/冒险号启航/冒险号启航故事文本.md"
+  },
+  {
+    "title": "咪咪的情商课",
+    "summary": "咪咪教大家用幽默和自信应对嘲笑。",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/咪咪的情商课/咪咪的情商课故事文本.md"
+  },
+  {
+    "title": "迷宫诗歌大冒险",
+    "summary": "小蛇思思带领伙伴们闯迷宫，用智慧和合作战胜挑战",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/迷宫诗歌大冒险/迷宫诗歌大冒险故事文本.md"
+  },
+  {
+    "title": "迷雾荆棘林探险",
+    "summary": "森林小队借助AI智慧穿越迷雾荆棘林",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/迷雾荆棘林探险/迷雾荆棘林探险故事文本.md"
+  },
+  {
+    "title": "密码301-Bz",
+    "summary": "小蛇思思带领伙伴们破解密码救孔雀老师",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/密码301-Bz/密码301-Bz故事文本.md"
+  },
+  {
+    "title": "魔法表演大作战",
+    "summary": "小蛇思思用智慧帮助大家观看魔法表演",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法表演大作战/魔法表演大作战故事文本.md"
+  },
+  {
+    "title": "魔法分享会",
+    "summary": "小蛇思思和咪咪用魔法书吸引大家参加书本分享会。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法分享会/魔法分享会故事文本.md"
+  },
+  {
+    "title": "魔法剧团奇遇记",
+    "summary": "小蛇思思受伤后参与演出，与魔法喵和解的故事",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法剧团奇遇记/魔法剧团奇遇记故事文本.md"
+  },
+  {
+    "title": "魔法篮球赛",
+    "summary": "魔法猫队输了比赛却学会了重要一课。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/魔法篮球赛/魔法篮球赛故事文本.md"
+  },
+  {
+    "title": "魔法猫的胜利",
+    "summary": "魔法猫队与花朵队比赛，小猫队团结合作赢得胜利。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/魔法猫的胜利/魔法猫的胜利故事文本.md"
+  },
+  {
+    "title": "魔法喵才艺秀",
+    "summary": "魔法喵们准备才艺表演，家长将参与制作美食",
+    "parent": "短镜头系列",
+    "sub": "2026特别篇",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵才艺秀/魔法喵才艺秀故事文本.md"
+  },
+  {
+    "title": "魔法喵的宝藏",
+    "summary": "魔法喵通过线索寻找宝藏，获得超能力券",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的宝藏/魔法喵的宝藏故事文本.md"
+  },
+  {
+    "title": "魔法喵的钢琴课",
+    "summary": "胆怯小猫靠友谊和自信赢得比赛的故事",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的钢琴课/魔法喵的钢琴课故事文本.md"
+  },
+  {
+    "title": "魔法喵的军姿赛",
+    "summary": "小蛇思思帮助魔法喵班赢得最佳军姿班称号",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的军姿赛/魔法喵的军姿赛故事文本.md"
+  },
+  {
+    "title": "魔法喵的冒险",
+    "summary": "魔法喵们智斗孔雀老师，完成宇宙模型获奖励",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的冒险/魔法喵的冒险故事文本.md"
+  },
+  {
+    "title": "魔法喵的秘密任务",
+    "summary": "魔法喵和朋友们发现坏人计划，寻找钥匙救神兽",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的秘密任务/魔法喵的秘密任务故事文本.md"
+  },
+  {
+    "title": "魔法喵的秘密任务_1",
+    "summary": "魔法喵们合作解开\"dr\"之谜，组装神奇乐器",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的秘密任务_1/魔法喵的秘密任务_1故事文本.md"
+  },
+  {
+    "title": "魔法喵的奇妙课",
+    "summary": "魔法喵们在课堂展示神奇技能，孔雀老师发现秘密",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的奇妙课/魔法喵的奇妙课故事文本.md"
+  },
+  {
+    "title": "魔法喵的奇妙旅行",
+    "summary": "魔法喵们用神奇折纸解决秋游难题的有趣经历",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的奇妙旅行/魔法喵的奇妙旅行故事文本.md"
+  },
+  {
+    "title": "魔法喵的奇妙日",
+    "summary": "魔法喵们各展神通帮助蛇家，合作创造欢乐时光。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的奇妙日/魔法喵的奇妙日故事文本.md"
+  },
+  {
+    "title": "魔法喵的奇妙演出",
+    "summary": "魔法喵剧团在思思的创意下克服困难，成功演出",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的奇妙演出/魔法喵的奇妙演出故事文本.md"
+  },
+  {
+    "title": "魔法喵的生日",
+    "summary": "魔法喵们用智慧赢得游戏，快乐过生日。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的生日/魔法喵的生日故事文本.md"
+  },
+  {
+    "title": "魔法喵的胜利",
+    "summary": "兔子班挑战魔法喵班，喵咪们用智慧和团队合作赢得比赛",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的胜利/魔法喵的胜利故事文本.md"
+  },
+  {
+    "title": "魔法喵的淑女课",
+    "summary": "魔法喵彤彤学做淑女，最终发现做自己最快乐。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的淑女课/魔法喵的淑女课故事文本.md"
+  },
+  {
+    "title": "魔法喵的舞台",
+    "summary": "小蛇思思带领魔法喵们合作赢得文艺汇演第一名",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的舞台/魔法喵的舞台故事文本.md"
+  },
+  {
+    "title": "魔法喵的戏精奖",
+    "summary": "魔法喵团队通过合作获得团体戏精奖",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的戏精奖/魔法喵的戏精奖故事文本.md"
+  },
+  {
+    "title": "魔法喵的戏剧课",
+    "summary": "魔法喵们演戏又比赛，学习团队合作和情绪表达",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的戏剧课/魔法喵的戏剧课故事文本.md"
+  },
+  {
+    "title": "魔法喵的新年计",
+    "summary": "魔法喵班用\"三十六计\"给思思准备新年惊喜",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的新年计/魔法喵的新年计故事文本.md"
+  },
+  {
+    "title": "魔法喵的新年晚会",
+    "summary": "魔法喵们举办精彩新年晚会，共同庆祝春节",
+    "parent": "短镜头系列",
+    "sub": "2026特别篇",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的新年晚会/魔法喵的新年晚会故事文本.md"
+  },
+  {
+    "title": "魔法喵的演出服",
+    "summary": "魔法喵们获得特别演出服，期待排练",
+    "parent": "短镜头系列",
+    "sub": "2026特别篇",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的演出服/魔法喵的演出服故事文本.md"
+  },
+  {
+    "title": "魔法喵的阴谋",
+    "summary": "思思和伙伴们阻止魔法喵用负能量球害人",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵的阴谋/魔法喵的阴谋故事文本.md"
+  },
+  {
+    "title": "魔法喵队大挑战",
+    "summary": "魔法喵队比赛失利后学会团队合作的故事",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/魔法喵队大挑战/魔法喵队大挑战故事文本.md"
+  },
+  {
+    "title": "魔法喵冠军队",
+    "summary": "小菊通过训练和团队合作赢得跑步比赛冠军",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵冠军队/魔法喵冠军队故事文本.md"
+  },
+  {
+    "title": "魔法喵救老师",
+    "summary": "小蛇思思和魔法喵们勇救被关老师，揭穿孔雀老师阴谋",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵救老师/魔法喵救老师故事文本.md"
+  },
+  {
+    "title": "魔法喵救老师_1",
+    "summary": "魔法喵伪装神兽潜入医院营救孔雀老师",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵救老师_1/魔法喵救老师_1故事文本.md"
+  },
+  {
+    "title": "魔法喵救老师_2",
+    "summary": "魔法喵团队潜入医院，智斗坏蛋救出孔雀老师",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵救老师_2/魔法喵救老师_2故事文本.md"
+  },
+  {
+    "title": "魔法喵救塔记",
+    "summary": "魔法喵智斗毒粉怪，保护水晶塔",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵救塔记/魔法喵救塔记故事文本.md"
+  },
+  {
+    "title": "魔法喵咪咪的安全课",
+    "summary": "魔法猫咪咪用三个问题识破坏人，安全回家",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/魔法喵咪咪的安全课/魔法喵咪咪的安全课故事文本.md"
+  },
+  {
+    "title": "魔法喵咪咪逆袭记",
+    "summary": "高情商小猫咪咪通过蛇妈妈妙招实现全面逆袭",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵咪咪逆袭记/魔法喵咪咪逆袭记故事文本.md"
+  },
+  {
+    "title": "魔法喵食堂",
+    "summary": "魔法喵们解决食堂饭菜问题，帮助狐狸厨师",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵食堂/魔法喵食堂故事文本.md"
+  },
+  {
+    "title": "魔法喵寻宝记",
+    "summary": "小蛇思思带领魔法喵团队合作寻找宝藏",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵寻宝记/魔法喵寻宝记故事文本.md"
+  },
+  {
+    "title": "魔法喵演诸葛亮",
+    "summary": "魔法喵们争夺诸葛亮角色，思思凭实力获得机会却遇挑战",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵演诸葛亮/魔法喵演诸葛亮故事文本.md"
+  },
+  {
+    "title": "魔法喵游戏王",
+    "summary": "魔法喵咪咪通过三场游戏证明自己是真正的游戏王",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵游戏王/魔法喵游戏王故事文本.md"
+  },
+  {
+    "title": "魔法喵与白蛇",
+    "summary": "魔法喵小队与白蛇化解误会，互助合作",
+    "parent": "冒险系列",
+    "sub": "山海经",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵与白蛇/魔法喵与白蛇故事文本.md"
+  },
+  {
+    "title": "魔法喵与火蛇",
+    "summary": "小蛇思思觉醒火属性超能力，救出被困的魔法喵们",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵与火蛇/魔法喵与火蛇故事文本.md"
+  },
+  {
+    "title": "魔法喵战恐龙",
+    "summary": "魔法喵团队合力对抗叶丽丝和机械恐龙",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵战恐龙/魔法喵战恐龙故事文本.md"
+  },
+  {
+    "title": "魔法喵拯救恐龙岛",
+    "summary": "魔法喵团队联手打败反派，拯救恐龙岛",
+    "parent": "冒险系列",
+    "sub": "恐龙岛大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵拯救恐龙岛/魔法喵拯救恐龙岛故事文本.md"
+  },
+  {
+    "title": "魔法喵抓复制人",
+    "summary": "思思和咪咪合作找出四个校园复制人",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵抓复制人/魔法喵抓复制人故事文本.md"
+  },
+  {
+    "title": "魔法喵捉迷藏",
+    "summary": "小蛇思思用聪明办法赢得捉迷藏游戏",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法喵捉迷藏/魔法喵捉迷藏故事文本.md"
+  },
+  {
+    "title": "魔法排球大战",
+    "summary": "魔法喵们通过排球比赛明白火能交朋友的道理",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法排球大战/魔法排球大战故事文本.md"
+  },
+  {
+    "title": "魔法寝室大突击",
+    "summary": "孔雀老师突击检查，发现魔法喵们的创意学习方式。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法寝室大突击/魔法寝室大突击故事文本.md"
+  },
+  {
+    "title": "魔法清洁队",
+    "summary": "小蛇和魔法喵们用神奇植物打扫教室获表扬",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法清洁队/魔法清洁队故事文本.md"
+  },
+  {
+    "title": "魔法森林保卫战",
+    "summary": "魔法动物们团结协作，打败了坏蛋叶丽丝",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法森林保卫战/魔法森林保卫战故事文本.md"
+  },
+  {
+    "title": "魔法森林撕名牌",
+    "summary": "小蛇思思用智慧战胜会魔法的猫咪们赢得撕名牌游戏",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法森林撕名牌/魔法森林撕名牌故事文本.md"
+  },
+  {
+    "title": "魔法诗词大会",
+    "summary": "小蛇思思助魔法喵班赢得诗词大会",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法诗词大会/魔法诗词大会故事文本.md"
+  },
+  {
+    "title": "魔法实验室大冒险",
+    "summary": "小蛇思思带领魔法喵躲避孔雀老师的\"大追杀\"游戏",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法实验室大冒险/魔法实验室大冒险故事文本.md"
+  },
+  {
+    "title": "魔法宿舍大冒险",
+    "summary": "小蛇思思用分身术制作大床，与魔法喵们成为朋友",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法宿舍大冒险/魔法宿舍大冒险故事文本.md"
+  },
+  {
+    "title": "魔法跳绳比赛",
+    "summary": "魔法喵队与老师团的跳绳大比拼",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法跳绳比赛/魔法跳绳比赛故事文本.md"
+  },
+  {
+    "title": "魔法小队大冒险",
+    "summary": "魔法小队团结协作通过火苗队长的历练考验",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小队大冒险/魔法小队大冒险故事文本.md"
+  },
+  {
+    "title": "魔法小队大作战",
+    "summary": "小蛇思思带领魔法小队对抗火苗博士守护家园",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小队大作战/魔法小队大作战故事文本.md"
+  },
+  {
+    "title": "魔法小队寻宝记",
+    "summary": "魔法小队合力打败怪物，找到钥匙进入神秘洞穴。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小队寻宝记/魔法小队寻宝记故事文本.md"
+  },
+  {
+    "title": "魔法小队战恐龙",
+    "summary": "魔法小队合力破解恐龙机甲的钢铁封闭招式",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小队战恐龙/魔法小队战恐龙故事文本.md"
+  },
+  {
+    "title": "魔法小剧场",
+    "summary": "魔法喵们克服困难完成三国表演",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小剧场/魔法小剧场故事文本.md"
+  },
+  {
+    "title": "魔法小卫士",
+    "summary": "小蛇思思从想获奖励到成为正义小卫士的故事。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法小卫士/魔法小卫士故事文本.md"
+  },
+  {
+    "title": "魔法校园大冒险",
+    "summary": "小蛇思思和魔法喵咪咪合作保护电脑课并成功表演",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法校园大冒险/魔法校园大冒险故事文本.md"
+  },
+  {
+    "title": "魔法学校大冒险",
+    "summary": "小蛇思思在魔法学校体育课和游泳课上与伙伴合作战胜挑战",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法学校大冒险/魔法学校大冒险故事文本.md"
+  },
+  {
+    "title": "魔法学校的一天",
+    "summary": "魔法喵咪咪和小蛇思思在魔法学校的奇妙学习经历",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法学校的一天/魔法学校的一天故事文本.md"
+  },
+  {
+    "title": "魔法运动会",
+    "summary": "菜鸟魔法喵组队参加运动会，用智慧和勇气赢得冠军",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法运动会/魔法运动会故事文本.md"
+  },
+  {
+    "title": "魔法侦探小队",
+    "summary": "魔法侦探小队合作克服困难寻找碎片的冒险故事",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法侦探小队/魔法侦探小队故事文本.md"
+  },
+  {
+    "title": "魔法植物课",
+    "summary": "孔雀老师检查植物作业时遇到各种奇特植物的有趣故事",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/魔法植物课/魔法植物课故事文本.md"
+  },
+  {
+    "title": "末日逃亡小队",
+    "summary": "小蛇思思组队合作，成功躲避孔雀老师的\"抓捕\"。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/末日逃亡小队/末日逃亡小队故事文本.md"
+  },
+  {
+    "title": "默契小队的冒险",
+    "summary": "默契小队运用智慧和团队合作战胜野人，找到碎片。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/默契小队的冒险/默契小队的冒险故事文本.md"
+  },
+  {
+    "title": "木头保卫战",
+    "summary": "小蛇思思和魔法喵们合作赶走破坏木头的白蚁。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/木头保卫战/木头保卫战故事文本.md"
+  },
+  {
+    "title": "泥土城奇遇记",
+    "summary": "小动物们帮助石狮朋友，发现凤凰朱雀之争。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/泥土城奇遇记/泥土城奇遇记故事文本.md"
+  },
+  {
+    "title": "逆袭小蛇思思",
+    "summary": "小蛇思思在乡下干活练就本领，意外成为逆袭之王",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/逆袭小蛇思思/逆袭小蛇思思故事文本.md"
+  },
+  {
+    "title": "抛砖引玉计",
+    "summary": "魔法喵班用智慧赢得比赛并教会对手道理",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/抛砖引玉计/抛砖引玉计故事文本.md"
+  },
+  {
+    "title": "泡泡魔法浴",
+    "summary": "小蛇俏小妹不爱洗澡，最后在魔法泡泡中爱上洗澡。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/泡泡魔法浴/泡泡魔法浴故事文本.md"
+  },
+  {
+    "title": "奇妙笔记大作战",
+    "summary": "孔雀老师突击检查笔记，同学们各显神通",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙笔记大作战/奇妙笔记大作战故事文本.md"
+  },
+  {
+    "title": "奇妙餐厅",
+    "summary": "小蛇思思和魔法喵乖乖开餐厅，为咪咪提供特别服务。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙餐厅/奇妙餐厅故事文本.md"
+  },
+  {
+    "title": "奇妙改造机",
+    "summary": "小蛇思思用改造机帮助家人朋友解决难题。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙改造机/奇妙改造机故事文本.md"
+  },
+  {
+    "title": "奇妙美食大赛",
+    "summary": "动物美食大赛上，魔法喵和小蛇展现神奇厨艺的故事。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙美食大赛/奇妙美食大赛故事文本.md"
+  },
+  {
+    "title": "奇妙自行车赛",
+    "summary": "校园自行车赛上，小蛇思思用智慧和合作赢得冠军",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙自行车赛/奇妙自行车赛故事文本.md"
+  },
+  {
+    "title": "奇妙足球赛",
+    "summary": "森林学校师生足球赛，小动物队战胜老师队获奖励",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/奇妙足球赛/奇妙足球赛故事文本.md"
+  },
+  {
+    "title": "俏小妹的才艺",
+    "summary": "被误解的小蛇俏小妹在朋友帮助下展示独特才艺，获得妈妈认可",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/俏小妹的才艺/俏小妹的才艺故事文本.md"
+  },
+  {
+    "title": "清洁小火车",
+    "summary": "小蛇姐妹用神奇火车完成大扫除，让妈妈惊喜。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/清洁小火车/清洁小火车故事文本.md"
+  },
+  {
+    "title": "日月酒店谜案",
+    "summary": "侦探小队联手破解狐狸姐妹盗窃案",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/日月酒店谜案/日月酒店谜案故事文本.md"
+  },
+  {
+    "title": "森林表演日",
+    "summary": "魔法喵和伙伴们准备森林表演，紧张又期待",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/森林表演日/森林表演日故事文本.md"
+  },
+  {
+    "title": "森林厨艺大赛",
+    "summary": "小猫、小蛇和小鹰参加厨艺比赛，合作做出彩虹美食获冠军。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/森林厨艺大赛/森林厨艺大赛故事文本.md"
+  },
+  {
+    "title": "森林里的阿机",
+    "summary": "小蛇思思带领伙伴们发现AI机器人阿机并一起冒险",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/森林里的阿机/森林里的阿机故事文本.md"
+  },
+  {
+    "title": "森林小卫士",
+    "summary": "小蛇思思巧妙引导，帮爱啃木头的小兔子改掉坏习惯。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/森林小卫士/森林小卫士故事文本.md"
+  },
+  {
+    "title": "森林捉迷藏大赛",
+    "summary": "小猫、小鹰和小蛇在森林捉迷藏大赛中学会合作",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/森林捉迷藏大赛/森林捉迷藏大赛故事文本.md"
+  },
+  {
+    "title": "沙海寻宝记",
+    "summary": "小侦探团队沙漠寻拼图，团结合作破解谜题",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/沙海寻宝记/沙海寻宝记故事文本.md"
+  },
+  {
+    "title": "沙滩捉迷藏",
+    "summary": "小蛇思思在沙滩上和魔法喵们玩捉迷藏的故事。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/沙滩捉迷藏/沙滩捉迷藏故事文本.md"
+  },
+  {
+    "title": "山顶日出派对",
+    "summary": "小蛇思思和伙伴们合作克服困难，成功观看日出",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/山顶日出派对/山顶日出派对故事文本.md"
+  },
+  {
+    "title": "山海经能量冒险",
+    "summary": "小蛇思思带领小队收集能量，解决木龙危机",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/山海经能量冒险/山海经能量冒险故事文本.md"
+  },
+  {
+    "title": "珊瑚礁大营救",
+    "summary": "小蛇思思被抓，伙伴们用智慧计划营救",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/珊瑚礁大营救/珊瑚礁大营救故事文本.md"
+  },
+  {
+    "title": "蛇家魔术大赛",
+    "summary": "蛇妈妈与魔法兄妹比拼魔术，最终兄妹获胜。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/蛇家魔术大赛/蛇家魔术大赛故事文本.md"
+  },
+  {
+    "title": "蛇家智斗机器人",
+    "summary": "蛇家在人机大赛中用智慧战胜机器人",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/蛇家智斗机器人/蛇家智斗机器人故事文本.md"
+  },
+  {
+    "title": "深海守护者",
+    "summary": "小蛇思思带领团队击败紫雾，守护海洋家园",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/深海守护者/深海守护者故事文本.md"
+  },
+  {
+    "title": "深海寻宝记",
+    "summary": "勇敢小队寻找鲛泪，拯救被紫雾污染的海洋",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/深海寻宝记/深海寻宝记故事文本.md"
+  },
+  {
+    "title": "深海侦探队",
+    "summary": "侦探小队团结协作，战胜紫雾守护海洋家园",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/深海侦探队/深海侦探队故事文本.md"
+  },
+  {
+    "title": "神奇动物保卫战",
+    "summary": "小动物们联手打败紫色机器人叶丽思的故事",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/神奇动物保卫战/神奇动物保卫战故事文本.md"
+  },
+  {
+    "title": "失灵的超能力",
+    "summary": "侦探小队超能力失灵，用智慧破解毒液之谜",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/失灵的超能力/失灵的超能力故事文本.md"
+  },
+  {
+    "title": "诗词魔法冒险",
+    "summary": "小陶陶和伙伴们探索古代诗词的魔法秘密",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/诗词魔法冒险/诗词魔法冒险故事文本.md"
+  },
+  {
+    "title": "石牢奇妙夜",
+    "summary": "小蛇思思和伙伴们用智慧与友谊破解石牢谜题",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/石牢奇妙夜/石牢奇妙夜故事文本.md"
+  },
+  {
+    "title": "石门后的秘密",
+    "summary": "超能侦探小队探索红海洋之谜",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/石门后的秘密/石门后的秘密故事文本.md"
+  },
+  {
+    "title": "时光宝镜奇遇",
+    "summary": "魔法喵和小蛇帮助游客看见圆明园原貌并保护宝物",
+    "parent": "冒险系列",
+    "sub": "心理号",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/时光宝镜奇遇/时光宝镜奇遇故事文本.md"
+  },
+  {
+    "title": "时空太极炮",
+    "summary": "七伙伴学魔法，合力封印混沌魔",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/时空太极炮/时空太极炮故事文本.md"
+  },
+  {
+    "title": "食堂寻宝记",
+    "summary": "小蛇思思和咪咪在食堂寻找魔法零件的冒险故事。",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/食堂寻宝记/食堂寻宝记故事文本.md"
+  },
+  {
+    "title": "史密斯组合大胜利",
+    "summary": "小蛇和魔法猫组成的史密斯组合赢得羽毛球赛最后一球",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/史密斯组合大胜利/史密斯组合大胜利故事文本.md"
+  },
+  {
+    "title": "书本里的大冒险",
+    "summary": "小蛇和魔法喵穿越三国完成任务后回家",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/书本里的大冒险/书本里的大冒险故事文本.md"
+  },
+  {
+    "title": "数据小英雄",
+    "summary": "小蛇思思勇斗AI大盗，夺回元宇宙数据",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/数据小英雄/数据小英雄故事文本.md"
+  },
+  {
+    "title": "双星奇遇记",
+    "summary": "思思团队意外降落双星，团结应对毒液危机并找到飞船能源",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/双星奇遇记/双星奇遇记故事文本.md"
+  },
+  {
+    "title": "水杯大赛冠军",
+    "summary": "小蛇思思凭借智慧和特长赢得水杯大赛",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水杯大赛冠军/水杯大赛冠军故事文本.md"
+  },
+  {
+    "title": "水晶湖大冒险",
+    "summary": "思思和伙伴们在水晶湖寻找第二枚超能碎片的冒险故事。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水晶湖大冒险/水晶湖大冒险故事文本.md"
+  },
+  {
+    "title": "水枪大战冠军",
+    "summary": "魔法喵队用智慧和合作赢得水枪大战",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水枪大战冠军/水枪大战冠军故事文本.md"
+  },
+  {
+    "title": "水枪大作战",
+    "summary": "小蛇思思带领蓝色组智取水枪战胜利",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水枪大作战/水枪大作战故事文本.md"
+  },
+  {
+    "title": "水枪大作战_1",
+    "summary": "小蛇思思用智慧和特殊技能赢得水枪比赛的故事。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水枪大作战_1/水枪大作战_1故事文本.md"
+  },
+  {
+    "title": "水枪战三十六计",
+    "summary": "小蛇思思用水枪战和计谋带领蜀组获胜的故事",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/水枪战三十六计/水枪战三十六计故事文本.md"
+  },
+  {
+    "title": "睡觉大赛奇遇记",
+    "summary": "小蛇思思参加睡觉大赛，用真本领赢得零食大礼包",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/睡觉大赛奇遇记/睡觉大赛奇遇记故事文本.md"
+  },
+  {
+    "title": "思思的诚实魔法",
+    "summary": "小蛇思思用智慧帮助爱说谎的小狐狸学会诚实。",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的诚实魔法/思思的诚实魔法故事文本.md"
+  },
+  {
+    "title": "思思的防流感小队",
+    "summary": "小蛇思思带领伙伴们用不同方法打败流感病毒",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的防流感小队/思思的防流感小队故事文本.md"
+  },
+  {
+    "title": "思思的红包妙计",
+    "summary": "小蛇思思用智慧帮孔雀老师抢到最大红包",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的红包妙计/思思的红包妙计故事文本.md"
+  },
+  {
+    "title": "思思的花魔法",
+    "summary": "小蛇思思用创意赢得插花比赛冠军",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的花魔法/思思的花魔法故事文本.md"
+  },
+  {
+    "title": "思思的连环计",
+    "summary": "小蛇思思用妙计带领魔法喵班赢得撕名牌比赛",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的连环计/思思的连环计故事文本.md"
+  },
+  {
+    "title": "思思的妙计",
+    "summary": "小蛇思思用智慧和魔法赶走了大灰狼。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的妙计/思思的妙计故事文本.md"
+  },
+  {
+    "title": "思思的魔法风筝",
+    "summary": "小蛇思思用创意方法帮助同学轻松记住单词",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的魔法风筝/思思的魔法风筝故事文本.md"
+  },
+  {
+    "title": "思思的魔法假期",
+    "summary": "小蛇思思发现乡下假期比朋友们的旅行更精彩",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的魔法假期/思思的魔法假期故事文本.md"
+  },
+  {
+    "title": "思思的魔法奶茶",
+    "summary": "小蛇思思用创意奶茶帮助九尾狐，获得神奇能力开启冒险。",
+    "parent": "冒险系列",
+    "sub": "山海经",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的魔法奶茶/思思的魔法奶茶故事文本.md"
+  },
+  {
+    "title": "思思的魔法日",
+    "summary": "小蛇思思学魔法并赢得背π大赛冠军",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的魔法日/思思的魔法日故事文本.md"
+  },
+  {
+    "title": "思思的魔法作文",
+    "summary": "小蛇思思的想象作文获一等奖，全家上演魔法秀",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的魔法作文/思思的魔法作文故事文本.md"
+  },
+  {
+    "title": "思思的喷嚏魔法",
+    "summary": "小蛇思思用喷嚏和智慧赢得抓蝴蝶比赛",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的喷嚏魔法/思思的喷嚏魔法故事文本.md"
+  },
+  {
+    "title": "思思的勇气冒险",
+    "summary": "小蛇思思带领伙伴对抗毒粉怪，伙伴中毒被抓后决心营救",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的勇气冒险/思思的勇气冒险故事文本.md"
+  },
+  {
+    "title": "思思的智慧考验",
+    "summary": "思思小队需回答三个深奥问题以获得宝藏和超能果",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的智慧考验/思思的智慧考验故事文本.md"
+  },
+  {
+    "title": "思思的作业魔术",
+    "summary": "小蛇思思用\"喷嚏魔法\"换作业本，意外收获惊喜",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/思思的作业魔术/思思的作业魔术故事文本.md"
+  },
+  {
+    "title": "四川冒险记",
+    "summary": "小伙伴们四川旅行，分头探索各景点，开心集合盼重游。",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/四川冒险记/四川冒险记故事文本.md"
+  },
+  {
+    "title": "糖果世界大冒险",
+    "summary": "小猎豹闪电和小兔跳跳误入糖果世界，合作找到回家的路。",
+    "parent": "冒险系列",
+    "sub": "心理号",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/糖果世界大冒险/糖果世界大冒险故事文本.md"
+  },
+  {
+    "title": "停电大作战",
+    "summary": "动物学校停电后，小伙伴们合作解决危机的故事。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/停电大作战/停电大作战故事文本.md"
+  },
+  {
+    "title": "兔子侦探记",
+    "summary": "小兔子跳跳发现毒花陷阱，协助警察破案。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/兔子侦探记/兔子侦探记故事文本.md"
+  },
+  {
+    "title": "团团的太极舞",
+    "summary": "小熊猫学太极和舞蹈创武功，获武术大赛冠军",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/团团的太极舞/团团的太极舞故事文本.md"
+  },
+  {
+    "title": "汪汪三国秀",
+    "summary": "十二只狗狗排练三国表演，通过合作完成精彩演出。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/汪汪三国秀/汪汪三国秀故事文本.md"
+  },
+  {
+    "title": "微笑大侦探",
+    "summary": "魔法喵小队找回被偷的蒙娜猫沙微笑画作",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/微笑大侦探/微笑大侦探故事文本.md"
+  },
+  {
+    "title": "伪神兽大逃亡",
+    "summary": "五只伪神兽伙伴智斗保安，惊险逃离飞艇",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/伪神兽大逃亡/伪神兽大逃亡故事文本.md"
+  },
+  {
+    "title": "文具医院小医生",
+    "summary": "小蛇思思用巧手帮助同学解决难题赢得卫生评比",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/文具医院小医生/文具医院小医生故事文本.md"
+  },
+  {
+    "title": "卧龙思思夺冠记",
+    "summary": "小蛇思思参加问答大赛，用实力赢得\"卧龙\"称号。",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/卧龙思思夺冠记/卧龙思思夺冠记故事文本.md"
+  },
+  {
+    "title": "想象号奇妙旅行",
+    "summary": "小蛇阿闪和小鹰飞飞乘坐想象号展开奇妙冒险",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/想象号奇妙旅行/想象号奇妙旅行故事文本.md"
+  },
+  {
+    "title": "象棋小侦探",
+    "summary": "小蛇思思用智慧破解兔子跳跳的象棋难题",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/象棋小侦探/象棋小侦探故事文本.md"
+  },
+  {
+    "title": "小菊的跑道",
+    "summary": "小菊通过诚实努力赢得比赛，明白了真本事的重要。",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小菊的跑道/小菊的跑道故事文本.md"
+  },
+  {
+    "title": "小猫演草船借箭",
+    "summary": "导演咪咪带领小猫剧团，利用智慧完成草船借箭表演。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/小猫演草船借箭/小猫演草船借箭故事文本.md"
+  },
+  {
+    "title": "小蛇的超能力乐园",
+    "summary": "小蛇思思带家人在超能乐园体验奇妙冒险",
+    "parent": "冒险系列",
+    "sub": "心理号",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的超能力乐园/小蛇的超能力乐园故事文本.md"
+  },
+  {
+    "title": "小蛇的环保课",
+    "summary": "小蛇思思用智慧帮助小金鱼改掉乱扔垃圾的坏习惯。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的环保课/小蛇的环保课故事文本.md"
+  },
+  {
+    "title": "小蛇的空城计",
+    "summary": "小蛇思思独自在家智斗坏人，成功运用智慧保护自己",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的空城计/小蛇的空城计故事文本.md"
+  },
+  {
+    "title": "小蛇的空城计_1",
+    "summary": "小蛇思思和俏小妹通过演戏成为好搭档",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的空城计_1/小蛇的空城计_1故事文本.md"
+  },
+  {
+    "title": "小蛇的美人计",
+    "summary": "小蛇思思玩卧底游戏获胜，展现机智与幽默。",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的美人计/小蛇的美人计故事文本.md"
+  },
+  {
+    "title": "小蛇的魔法镜",
+    "summary": "小蛇思思用魔法镜帮助小鸭子嘎嘎改掉嘲笑他人的坏习惯。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的魔法镜/小蛇的魔法镜故事文本.md"
+  },
+  {
+    "title": "小蛇的魔法路",
+    "summary": "小蛇思思帮咪咪整理花园，最终到达小菊家。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的魔法路/小蛇的魔法路故事文本.md"
+  },
+  {
+    "title": "小蛇的默契考验",
+    "summary": "小蛇思思通过默契考验识破机器人假冒家人的故事",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的默契考验/小蛇的默契考验故事文本.md"
+  },
+  {
+    "title": "小蛇的拍戏冒险",
+    "summary": "小蛇思思和俏小妹拍戏后参加篝火晚会，期待旅行",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的拍戏冒险/小蛇的拍戏冒险故事文本.md"
+  },
+  {
+    "title": "小蛇的奇妙串门",
+    "summary": "小蛇姐妹变小后拜访动物朋友，学会分享和理解",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的奇妙串门/小蛇的奇妙串门故事文本.md"
+  },
+  {
+    "title": "小蛇的玩具心愿",
+    "summary": "小蛇兄妹想买玩具，最后意外获得折扣同时拥有",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的玩具心愿/小蛇的玩具心愿故事文本.md"
+  },
+  {
+    "title": "小蛇的舞台魔法",
+    "summary": "小蛇思思和魔法喵们上演有趣的赤壁之战",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的舞台魔法/小蛇的舞台魔法故事文本.md"
+  },
+  {
+    "title": "小蛇的智慧",
+    "summary": "小蛇思思用智慧帮助小狮子莱恩改掉霸道习惯。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇的智慧/小蛇的智慧故事文本.md"
+  },
+  {
+    "title": "小蛇队的妙计",
+    "summary": "小蛇队用智慧的计策赢得撕名牌比赛",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇队的妙计/小蛇队的妙计故事文本.md"
+  },
+  {
+    "title": "小蛇剧团大冒险",
+    "summary": "小蛇思思和妹妹一起解决剧团角色不足的难题",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇剧团大冒险/小蛇剧团大冒险故事文本.md"
+  },
+  {
+    "title": "小蛇喵的奇妙冒险",
+    "summary": "小蛇溜溜和魔法喵妙妙误入植物大战僵尸世界，用智慧帮助植物守护家园",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/小蛇喵的奇妙冒险/小蛇喵的奇妙冒险故事文本.md"
+  },
+  {
+    "title": "小蛇思思大冒险",
+    "summary": "小蛇思思带领家人在超能大侦探景区探险闯关的故事",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思大冒险/小蛇思思大冒险故事文本.md"
+  },
+  {
+    "title": "小蛇思思当班长",
+    "summary": "小蛇思思在班委选举中经历失落最终成为班长",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思当班长/小蛇思思当班长故事文本.md"
+  },
+  {
+    "title": "小蛇思思当指挥",
+    "summary": "小蛇思思在伙伴帮助下找到适合自己的指挥角色，赢得比赛。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思当指挥/小蛇思思当指挥故事文本.md"
+  },
+  {
+    "title": "小蛇思思的大冒险",
+    "summary": "小蛇思思照顾变成婴儿的同学，最终找到解药恢复大家。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的大冒险/小蛇思思的大冒险故事文本.md"
+  },
+  {
+    "title": "小蛇思思的待客之道",
+    "summary": "小蛇思思用分身术招待朋友，展现真诚待客之道。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第三季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的待客之道/小蛇思思的待客之道故事文本.md"
+  },
+  {
+    "title": "小蛇思思的分身",
+    "summary": "小蛇思思生病分身，魔法喵们合力解决，老师让他回家休息。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的分身/小蛇思思的分身故事文本.md"
+  },
+  {
+    "title": "小蛇思思的考验",
+    "summary": "小蛇思思带领家人通过三关考验，获得船模奖励",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的考验/小蛇思思的考验故事文本.md"
+  },
+  {
+    "title": "小蛇思思的龙珠",
+    "summary": "小蛇思思发现自己是火龙转世，获得七彩龙珠的故事",
+    "parent": "冒险系列",
+    "sub": "七彩龙珠大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的龙珠/小蛇思思的龙珠故事文本.md"
+  },
+  {
+    "title": "小蛇思思的秘密",
+    "summary": "小蛇思思用特别方法学习，考出好成绩。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的秘密/小蛇思思的秘密故事文本.md"
+  },
+  {
+    "title": "小蛇思思的秘密_1",
+    "summary": "小蛇思思发现孔雀老师是黑羽王，最终用知识打败他。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的秘密_1/小蛇思思的秘密_1故事文本.md"
+  },
+  {
+    "title": "小蛇思思的魔法",
+    "summary": "小蛇思思排练话剧，意外收获家人支持",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的魔法/小蛇思思的魔法故事文本.md"
+  },
+  {
+    "title": "小蛇思思的逆袭",
+    "summary": "小蛇思思通过努力改变家庭排名，懂得爱的价值。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的逆袭/小蛇思思的逆袭故事文本.md"
+  },
+  {
+    "title": "小蛇思思的书",
+    "summary": "蛇爸爸带回神奇快递，思思发现自己的冒险故事被出版成书。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的书/小蛇思思的书故事文本.md"
+  },
+  {
+    "title": "小蛇思思的台词魔法",
+    "summary": "小蛇思思克服困难完成诸葛亮台词挑战",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的台词魔法/小蛇思思的台词魔法故事文本.md"
+  },
+  {
+    "title": "小蛇思思的晚会",
+    "summary": "小蛇思思让出名额后成为晚会主持人",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的晚会/小蛇思思的晚会故事文本.md"
+  },
+  {
+    "title": "小蛇思思的校园奇妙日",
+    "summary": "小蛇思思带家人游玩校园景区，体验学习乐趣。",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的校园奇妙日/小蛇思思的校园奇妙日故事文本.md"
+  },
+  {
+    "title": "小蛇思思的选择",
+    "summary": "小蛇思思在兴趣小组选择中展现多方面才能，最终找到最适合自己的位置。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的选择/小蛇思思的选择故事文本.md"
+  },
+  {
+    "title": "小蛇思思的演出",
+    "summary": "小蛇思思通过装死成功演出，并获得新角色。",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的演出/小蛇思思的演出故事文本.md"
+  },
+  {
+    "title": "小蛇思思的游乐场",
+    "summary": "小蛇思思带家人游玩创意游乐场的欢乐一天",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思的游乐场/小蛇思思的游乐场故事文本.md"
+  },
+  {
+    "title": "小蛇思思演戏记",
+    "summary": "小蛇思思克服紧张成功完成表演",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思演戏记/小蛇思思演戏记故事文本.md"
+  },
+  {
+    "title": "小蛇思思演戏记_1",
+    "summary": "小蛇思思在草船借箭演出中遇到意外，最终成功完成表演。",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇思思演戏记_1/小蛇思思演戏记_1故事文本.md"
+  },
+  {
+    "title": "小蛇演诸葛",
+    "summary": "小蛇思思领悟做自己比完美更重要",
+    "parent": "短镜头系列",
+    "sub": "三国演义小剧场",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇演诸葛/小蛇演诸葛故事文本.md"
+  },
+  {
+    "title": "小蛇与小鹰的航海记",
+    "summary": "小蛇和小鹰用勇气与想象超能量击退海盗",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇与小鹰的航海记/小蛇与小鹰的航海记故事文本.md"
+  },
+  {
+    "title": "小蛇侦探挑战赛",
+    "summary": "小蛇思思通过观察破解魔法喵小菊设下的侦探挑战",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小蛇侦探挑战赛/小蛇侦探挑战赛故事文本.md"
+  },
+  {
+    "title": "小狮子的勇气果",
+    "summary": "小蛇思思帮助爱吹牛的小狮子学会诚实。",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/小狮子的勇气果/小狮子的勇气果故事文本.md"
+  },
+  {
+    "title": "小鸭子剧团",
+    "summary": "小鸭子们合作排演《三打白骨精》获第一名",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/小鸭子剧团/小鸭子剧团故事文本.md"
+  },
+  {
+    "title": "小羊奥运奇遇",
+    "summary": "小羊一家参加奥运会，发挥特长享受比赛过程。",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/小羊奥运奇遇/小羊奥运奇遇故事文本.md"
+  },
+  {
+    "title": "校园星系探险",
+    "summary": "小蛇和魔法喵们合作解开谜题找到校园星系",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/校园星系探险/校园星系探险故事文本.md"
+  },
+  {
+    "title": "新衣的魔法",
+    "summary": "小蛇和魔法喵合作制作新年表演服，展现友谊与创意",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/新衣的魔法/新衣的魔法故事文本.md"
+  },
+  {
+    "title": "星光队的奇迹",
+    "summary": "小蛇思思带领萤火虫团队合作，击败天鹅队夺冠",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/星光队的奇迹/星光队的奇迹故事文本.md"
+  },
+  {
+    "title": "星空探险队",
+    "summary": "动物小队合作开启宇宙之门的冒险故事",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/星空探险队/星空探险队故事文本.md"
+  },
+  {
+    "title": "幸运光环的秘密",
+    "summary": "小蛇思思发现幸运光环后经历的有趣校园故事",
+    "parent": "爱学系列",
+    "sub": "生活中的数理化",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/幸运光环的秘密/幸运光环的秘密故事文本.md"
+  },
+  {
+    "title": "悬空岛探险记",
+    "summary": "小蛇思思带领伙伴们集齐碎片开启新冒险",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/悬空岛探险记/悬空岛探险记故事文本.md"
+  },
+  {
+    "title": "学生小考官",
+    "summary": "学生当考官严格监考，得到校长表扬。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/学生小考官/学生小考官故事文本.md"
+  },
+  {
+    "title": "学渣队的魔法板报",
+    "summary": "思思小组合作完成黑板报并获奖的故事",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/学渣队的魔法板报/学渣队的魔法板报故事文本.md"
+  },
+  {
+    "title": "学渣组大逆袭",
+    "summary": "被嘲笑的学渣组在问答日逆袭夺冠",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/学渣组大逆袭/学渣组大逆袭故事文本.md"
+  },
+  {
+    "title": "寻找鲛泪",
+    "summary": "小动物们决定去寻找传说中的鲛泪",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/寻找鲛泪/寻找鲛泪故事文本.md"
+  },
+  {
+    "title": "谚语成真的郊游",
+    "summary": "小蛇思思用谚语预测天气，和朋友们开心郊游的故事。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/谚语成真的郊游/谚语成真的郊游故事文本.md"
+  },
+  {
+    "title": "遥控器大冒险",
+    "summary": "小蛇姐妹合作寻找遥控器的冒险故事",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/遥控器大冒险/遥控器大冒险故事文本.md"
+  },
+  {
+    "title": "夜明珠奇遇",
+    "summary": "小松鼠们在绿色水宝宝浴池帮狮子妈妈找回夜明珠",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/夜明珠奇遇/夜明珠奇遇故事文本.md"
+  },
+  {
+    "title": "隐形侦探队",
+    "summary": "小蛇思思带领侦探队潜入神秘基地，发现敌人阴谋并成功反击。",
+    "parent": "冒险系列",
+    "sub": "决战星未来",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/隐形侦探队/隐形侦探队故事文本.md"
+  },
+  {
+    "title": "应龙的智慧考验",
+    "summary": "山海经小队通过默契协作和智慧，通过应龙的考验",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/应龙的智慧考验/应龙的智慧考验故事文本.md"
+  },
+  {
+    "title": "营救孔雀老师",
+    "summary": "小动物们齐心协力营救被关押的孔雀老师",
+    "parent": "冒险系列",
+    "sub": "超能大侦探2",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/营救孔雀老师/营救孔雀老师故事文本.md"
+  },
+  {
+    "title": "影子大作战",
+    "summary": "思思和伙伴们联手解救小橘子，智斗反派团",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/影子大作战/影子大作战故事文本.md"
+  },
+  {
+    "title": "泳池捉迷藏",
+    "summary": "小蛇思思在泳池捉迷藏中战胜魔法对手获胜",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/泳池捉迷藏/泳池捉迷藏故事文本.md"
+  },
+  {
+    "title": "勇敢的魔法喵",
+    "summary": "魔法喵小菊克服怕脏的恐惧，获得麒麟能量。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/勇敢的魔法喵/勇敢的魔法喵故事文本.md"
+  },
+  {
+    "title": "勇气钥匙",
+    "summary": "小蛇思思和魔法喵们通过勇气和友谊战胜危机",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/勇气钥匙/勇气钥匙故事文本.md"
+  },
+  {
+    "title": "游戏摊大挑战",
+    "summary": "小蛇思思和魔法喵们用智慧和特长战胜游戏摊老板",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/游戏摊大挑战/游戏摊大挑战故事文本.md"
+  },
+  {
+    "title": "游泳馆寻宝记",
+    "summary": "魔法喵和小蛇在游泳馆寻找宝藏的冒险故事",
+    "parent": "上学记系列",
+    "sub": "校园星系大作战",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/游泳馆寻宝记/游泳馆寻宝记故事文本.md"
+  },
+  {
+    "title": "友谊魔法冠军",
+    "summary": "魔法喵乖乖在朋友鼓励下重拾自信，获得记歌词大赛冠军",
+    "parent": "短镜头系列",
+    "sub": "森林日报第二期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/友谊魔法冠军/友谊魔法冠军故事文本.md"
+  },
+  {
+    "title": "羽毛口哨的力量",
+    "summary": "小蛇思思和孔雀老师用友谊力量赢得羽毛球赛",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/羽毛口哨的力量/羽毛口哨的力量故事文本.md"
+  },
+  {
+    "title": "羽毛球场的魔法",
+    "summary": "魔法喵咪咪和小蛇思思组队战胜老师队赢得羽毛球决赛",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/羽毛球场的魔法/羽毛球场的魔法故事文本.md"
+  },
+  {
+    "title": "雨中魔法伞",
+    "summary": "小蛇思思和魔法喵们合作避雨的故事",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第二季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/雨中魔法伞/雨中魔法伞故事文本.md"
+  },
+  {
+    "title": "云朵上的学校",
+    "summary": "小蛇阿云和小鹰阿风合作完成开学任务",
+    "parent": "短镜头系列",
+    "sub": "森林日报第一期",
+    "confidence": "confirmed",
+    "reason": "series map",
+    "path": "archive/云朵上的学校/云朵上的学校故事文本.md"
+  },
+  {
+    "title": "早起的魔法早餐",
+    "summary": "小蛇思思早起品尝美味超能米，发现早起的好处。",
+    "parent": "上学记系列",
+    "sub": "我的同学是小蛇思思第一季",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/早起的魔法早餐/早起的魔法早餐故事文本.md"
+  },
+  {
+    "title": "早睡委员思思",
+    "summary": "小蛇思思当早睡委员，帮助家人早睡准备去游乐园。",
+    "parent": "爱学系列",
+    "sub": "好习惯培养",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/早睡委员思思/早睡委员思思故事文本.md"
+  },
+  {
+    "title": "造纸术大冒险",
+    "summary": "小陶陶和伙伴们探索古代造纸术的奇妙旅程",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/造纸术大冒险/造纸术大冒险故事文本.md"
+  },
+  {
+    "title": "战甲小侦探",
+    "summary": "小侦探们获得神奇战甲，准备对抗反派团的冒险故事。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/战甲小侦探/战甲小侦探故事文本.md"
+  },
+  {
+    "title": "长城寻宝记",
+    "summary": "小陶陶和伙伴们解开长城神秘宝藏的故事",
+    "parent": "冒险系列",
+    "sub": "中华大冒险",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/长城寻宝记/长城寻宝记故事文本.md"
+  },
+  {
+    "title": "侦探小队大冒险",
+    "summary": "小蛇思思带领魔法喵们智斗叶丽丝",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/侦探小队大冒险/侦探小队大冒险故事文本.md"
+  },
+  {
+    "title": "侦探小队大冒险_1",
+    "summary": "思思带领侦探小队寻找钥匙，智斗保安后成功脱险",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/侦探小队大冒险_1/侦探小队大冒险_1故事文本.md"
+  },
+  {
+    "title": "侦探小队冒险记",
+    "summary": "小蛇思思带领侦探小队分头行动，历经惊险后汇合，用智慧让贝壳开口。",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/侦探小队冒险记/侦探小队冒险记故事文本.md"
+  },
+  {
+    "title": "枕头大战奇遇",
+    "summary": "小蛇思思和魔法喵们在枕头大战中学会团队合作。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/枕头大战奇遇/枕头大战奇遇故事文本.md"
+  },
+  {
+    "title": "纸飞机大赛",
+    "summary": "小蛇思思和魔法喵们展开纸飞机大赛，思思凭借智慧夺冠",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/纸飞机大赛/纸飞机大赛故事文本.md"
+  },
+  {
+    "title": "智斗游戏摊主",
+    "summary": "小蛇和小鹰合作揭穿摊主诡计，赢回奖品",
+    "parent": "爱学系列",
+    "sub": "咪咪的情商训练营",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/智斗游戏摊主/智斗游戏摊主故事文本.md"
+  },
+  {
+    "title": "智斗智能门",
+    "summary": "小蛇思思带领同学智解多重门锁，成功逃生。",
+    "parent": "冒险系列",
+    "sub": "AI漫游记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/智斗智能门/智斗智能门故事文本.md"
+  },
+  {
+    "title": "智慧的跑步赛",
+    "summary": "小蛇姐妹用智慧赢得小区跑步比赛",
+    "parent": "温馨家庭系列",
+    "sub": "思思的一家",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/智慧的跑步赛/智慧的跑步赛故事文本.md"
+  },
+  {
+    "title": "重植迷宫探险",
+    "summary": "思思和伙伴们勇闯重植迷宫寻找宝藏战胜花妖",
+    "parent": "冒险系列",
+    "sub": "超能大侦探",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/重植迷宫探险/重植迷宫探险故事文本.md"
+  },
+  {
+    "title": "诸葛思思的妙计",
+    "summary": "小蛇思思用智慧帮助魔法喵班赢得撕名牌大战",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/诸葛思思的妙计/诸葛思思的妙计故事文本.md"
+  },
+  {
+    "title": "壮壮的武术赛",
+    "summary": "魔法喵壮壮克服弱点，赢得武术大赛冠军。",
+    "parent": "上学记系列",
+    "sub": "魔法喵上学记",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/壮壮的武术赛/壮壮的武术赛故事文本.md"
+  },
+  {
+    "title": "足球小妙计",
+    "summary": "小蛇思思用智慧战胜骄傲的兔子宫宫的足球挑战",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/足球小妙计/足球小妙计故事文本.md"
+  },
+  {
+    "title": "最佳班级的秘密",
+    "summary": "魔法喵班用真诚热情赢得最佳班级称号",
+    "parent": "爱学系列",
+    "sub": "趣学三十六计",
+    "confidence": "high",
+    "reason": "series map",
+    "path": "archive/最佳班级的秘密/最佳班级的秘密故事文本.md"
+  }
+]
